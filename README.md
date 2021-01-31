@@ -1,0 +1,1 @@
+# printing-pattern-triangle-of-numbers
